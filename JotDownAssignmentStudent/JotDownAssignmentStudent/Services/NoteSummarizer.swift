@@ -34,3 +34,8 @@ import Foundation
 // Think about how to use `LanguageModelSession` to send a prompt and get a response.
 //
 
+class NoteSummarizer {
+    func summarizeNotes(_ text: String) async throws -> String {
+        return ""
+    }
+}

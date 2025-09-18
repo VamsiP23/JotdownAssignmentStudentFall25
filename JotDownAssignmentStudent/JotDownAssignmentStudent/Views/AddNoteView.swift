@@ -45,6 +45,9 @@ struct AddNoteView: View {
                 Button("Generate Summary") {
                     //TO DO: Use your NoteSummarizer.swift to use FoundationModels to get an
                     // AI Generated summary of your notes!
+                    // HINT: The parsed text from the PDF is stored in the noteText variable after you upload a valid PDF!
+                    // HINT: Store the AI Generated summary into the summary variable
+                    
                 }
                 .buttonStyle(.borderedProminent)
             
